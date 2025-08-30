@@ -116,3 +116,13 @@ Pokemon = CHARIZARD,63
     Item = SITRUSBERRY
 Pokemon = BLASTOISE,63
     Item = SITRUSBERRY
+#-------------------------------
+[PROYOUNGSTER,Tobi]
+LoseText = Not too shabby.
+Pokemon = PIDGEOTTO,17
+    Shiny = yes
+#-------------------------------
+[PROYOUNGSTER,Tobi,1]
+LoseText = Not too shabby.
+Pokemon = PIDGEOTTO,60
+    Shiny = yes

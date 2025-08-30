@@ -399,3 +399,12 @@ Gender = Male
 BaseMoney = 100
 BattleBGM = Battle Champion
 VictoryBGM = Battle victory leader
+#-------------------------------
+[PROYOUNGSTER] 
+Name = Pro Yungster
+Gender = Male
+BaseMoney = 100
+SkillLevel = 100 # quanto è difficile la lotta
+IntroBGM = Battle Champion
+BattleBGM = Battle Champion
+VictoryBGM = Battle victory leader
